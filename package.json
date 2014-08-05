@@ -1,6 +1,10 @@
 {
   "name": "toRoman",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flatiron-school-curriculum/romanNumerals.js.git"
+  },
   "description": "Roman Numerals",
   "dependencies": {
     "grunt": "~0.4.1",
