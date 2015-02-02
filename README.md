@@ -4,17 +4,6 @@ tags: functions, conditionals
 ---
 
 # Roman Numerals
-## Getting Started
-
-Run `npm install`
-
-## Tests
-
-Review the `toRoman.js` file inside the `lib` directory, and then the `toRoman.spec.js` file inside the `spec` directory. Review each of the tests, and then start implementing your solutions to make each test pass in `toRoman.js`.
-
-Run `grunt watch` then edit your files. Grunt will watch for changes. Grunt
-will only run tests that start with `it`. When you finish passing a test,
-remove the `x` from `xit` to convert it to a runnable test.
 
 ## Background
 
@@ -24,8 +13,23 @@ The Romans wrote numbers using letters - I, V, X, L, C, D, M. (notice these lett
 
 ```
  1  => I
-10  => X
+ 2  => II
+ 3  => III
+ 4  => IV
+ 5  => V
+ 6  => VI
  7  => VII
+ 8  => VIII
+ 9  => IX
+10  => X
+11  => XI
+12  => XII
+13  => XIII
+14  => XIV
+15  => XV
+16  => XVI
+
+etc.
 ```
 
 There is no need to be able to convert numbers larger than about 3000. (The Romans themselves didn't tend to go any higher)
@@ -36,13 +40,28 @@ To see this in practice, consider the example of 1990.
 
 In Roman numerals 1990 is MCMXC:
 
-1000=M
-900=CM
-90=XC
+```
+1000 => M
+900  => CM
+90   => XC
+```
 
 2008 is written as MMVIII:
 
-2000=MM
-8=VIII
+```
+2000 => MM
+8    => VIII
+```
 
 See also: [Roman Number System](http://www.novaroma.org/via_romana/numbers.html)
+
+## Instructions
+
+Review the `toRoman.js` file inside the `lib` directory, and then the `toRoman.spec.js` file inside the `spec` directory. Review each of the tests, and then start implementing your solutions to make each test pass in `toRoman.js`.
+
+Run the testing suite to get started.
+
+## Resources
+
+* [Roman Number System](http://www.novaroma.org/via_romana/numbers.html)
+* [Number Chart](http://literacy.kent.edu/Minigrants/Cinci/romanchart.htm)
