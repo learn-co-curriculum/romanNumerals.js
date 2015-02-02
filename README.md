@@ -5,6 +5,8 @@ tags: functions, conditionals
 
 # Roman Numerals
 
+![roman numeral visual](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/js-vowels/roman_numerals.jpg)
+
 ## Background
 
 The Romans were a clever bunch. They conquered most of Europe and ruled it for hundreds of years. They invented concrete and straight roads and even bikinis. One thing they never discovered though was the number zero. This made writing and dating extensive histories of their exploits slightly more challenging, but the system of numbers they came up with is still in use today. For example the BBC uses Roman numerals to date their programmes.
