@@ -1,8 +1,3 @@
----
-languages: javascript
-tags: functions, conditionals
----
-
 # Roman Numerals
 
 ![roman numeral visual](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/js-vowels/roman_numerals.jpg)
