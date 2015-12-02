@@ -62,3 +62,5 @@ Run the testing suite to get started.
 
 * [Roman Number System](http://www.novaroma.org/via_romana/numbers.html)
 * [Number Chart](http://literacy.kent.edu/Minigrants/Cinci/romanchart.htm)
+
+<a href='https://learn.co/lessons/romanNumerals.js' data-visibility='hidden'>View this lesson on Learn.co</a>
